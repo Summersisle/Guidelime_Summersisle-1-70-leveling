@@ -1,4 +1,5 @@
-Guidelime.registerGuide([[[N1-13Bloodelf][GA BloodElf]
+Guidelime.registerGuide([[
+[N1-13 Bloodelf][GA BloodElf]
 [OC][O]Run to the mailbox to collect your leveling items and set your hearth to the inn [G47.74,46.93Eversong Woods] Collect your mail [S] Talk to Innkeeper Delaniel and set your Hearth
 [G38.19,20.8Eversong Woods][QA8325 Reclaiming Sunstrider Isle]
 [G34.91,19.75,164Eversong Woods][QC8325 Reclaiming Sunstrider Isle]

@@ -7,3 +7,5 @@
 
 Summersisle Zul'Farrak.lua
 Bloodelf 1-13.lua
+9-Ragefire Chasm.lua
+Bloodelf 10-20.lua
