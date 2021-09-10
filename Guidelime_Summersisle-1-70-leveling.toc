@@ -10,3 +10,4 @@ Bloodelf 1-13.lua
 9-Ragefire Chasm.lua
 Bloodelf 10-20.lua
 20-30 Silverpine, The Barrens, Stonetalon Mountains, Hillsbrad Foothills, Ashenvale, 1k Needles.lua
+30-40.lua
