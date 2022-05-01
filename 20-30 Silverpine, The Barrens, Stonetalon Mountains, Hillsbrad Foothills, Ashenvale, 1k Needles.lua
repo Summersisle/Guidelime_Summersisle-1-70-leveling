@@ -24,24 +24,22 @@ Guidelime.registerGuide([[
 [QT6548 Avenge My Village][QA6629 Kill Grundig Darkcloud]
 [QC6629 Kill Grundig Darkcloud][QA6523 Protect Kaya]
 [QT6629 Kill Grundig Darkcloud][QT6523 Protect Kaya][QA6401 Kaya's Alive]
-[QA6461 Blood Feeders][QA6542 Report to Kadrak]
+[QA6461 Blood Feeders][QA6542 Report to Kadrak][QA1058 Jin'Zil's Forest Magic]
 [OC][V]Sell while here
 [QA6284 Arachnophobia]
 [QC6284 Arachnophobia][QC6461 Blood Feeders][QC1069 Deepmoss Spider Eggs]
-
 [QT6401 Kaya's Alive][QA6301 Cycle of Rebirth]
 [QA1087 Cenarius' Legacy]
 [OC][P]Get the FP at Stonetalon
 [QT6284 Arachnophobia]
 [QA6421 Boulderslide Ravine]
 [QC6421 Boulderslide Ravine]
-[QT6461 Blood Feeders][QA1058 Jin'Zil's Forest Magic]
 [QA1093 Super Reaper 6000]
 [QC1093 Super Reaper 6000][QC1062 Goblin Invaders]
 [QT1093 Super Reaper 6000][QA1094 Further Instructions]
 [QC6301 Cycle of Rebirth][QC1058 Jin'Zil's Forest Magic][QC1087 Cenarius' Legacy]
 [QT6301 Cycle of Rebirth][QT1087 Cenarius' Legacy][QA1088 Ordanus][QT6421 Boulderslide Ravine]
-[QT1058 Jin'Zil's Forest Magic]
+[QT1058 Jin'Zil's Forest Magic][QT6461 Blood Feeders]
 [QT1062 Goblin Invaders]
 [QA868 Egg Hunt][QA899 Consumed by Hatred][QA4921 Lost in Battle]
 [OC][F Ratchet]
@@ -62,7 +60,7 @@ Guidelime.registerGuide([[
 [OC][F Camp Taurajo]
 [OC][QT889 Spirit of the Wind]
 [QC868 Egg Hunt]
-[O][QA897 The Harvester]Is a
+[O][QA897 The Harvester]has a unique model. It is a rare and on a long respawn so feel free to skip if you can't find him.
 [QA843 Gann's Reclamation]
 [QC879 Betrayal from Within][QC893 Weapons of Choice]
 [O][QA885 Washte Pawne] Washte Pawne is a Red Thunderhawk

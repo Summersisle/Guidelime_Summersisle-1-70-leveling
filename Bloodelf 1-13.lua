@@ -7,7 +7,9 @@ Guidelime.registerGuide([[
 [QA8326 Unfortunate Measures]
 [A Hunter,BloodElf][QA9393 Hunter Training][QT9393 Hunter Training]
 [A Paladin,BloodElf][QA9676 Paladin Training][QT9676 Paladin Training]
+[A Rogue,BloodElf][QA9392 Rogue Training][QT9392 Rogue Training][QA10071 Well Watcher Solanian]
 [OC][T]Train your level 2 skills
+[A Rogue,BloodElf][QT10071 Well Watcher Solanian]
 [QA10072 Well Watcher Solanian]
 [QT10072 Well Watcher Solanian]
 [QA8330 Solanian's Belongings]
@@ -140,11 +142,12 @@ Head to Thaelis killing Arcane Patrollers and picking up unstable crates [QC8468
 [QC8479 Zul'Marosh][QA9360 Amani Invasion]
 [QT8479 Zul'Marosh]
 [QC8476 Amani Encroachment]
-[QT9360 Word from the Spire][QA9363 Warning Fairbreeze Village][QT8476 Amani Encroachment][QT8477 The Spearcrafter's Hammer]
+[QT8890 Word from the Spire][QA9363 Warning Fairbreeze Village][QT9360 Amani Invasion][QT8891 Abandoned Investigations]
 [QT9066 Swift Discipline]
 
 [QC9067,1 The Party Never Ends]
 [OC][T]Train skills
+[A Rogue,BloodElf][QA9532 Find Keltus Darkleaf]
 [QT9255 Research Notes][QA9144 Missing in the Ghostlands]
 [QT9363 Warning Fairbreeze Village]
 
@@ -152,6 +155,9 @@ Head to Thaelis killing Arcane Patrollers and picking up unstable crates [QC8468
 [QT9258 The Scorched Grove]
 [QA8473 A Somber Task]
 [QC8473 A Somber Task][QA8474 Old Whitebark's Pendant]
+[A Rogue,BloodElf][QT9532 Find Keltus Darkleaf][QA9460 Combining Forces]
+[A Rogue,BloodElf][QC9460 Combining Forces]
+[A Rogue,BloodElf][QT9460 Combining Forces][QA9618 Return the Reports]
 [QT8473 A Somber Task][QT8474 Old Whitebark's Pendant][QA10166 Whitebark's Memory]
 [G37.38,86.27Eversong Woods][QT10166 Whitebark's Memory]
 [QA8490 Powering our Defenses]
